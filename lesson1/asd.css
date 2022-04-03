@@ -1,0 +1,22 @@
+h1  {
+    background: burlywood;
+    color: ivory;
+}
+p{
+    background: bisque;
+    color: darkslateblue;
+}
+h2 {
+   background: cornsilk;
+}
+a{
+    color: burlywood;
+}
+li{
+    background: ivory;
+    color: cornflowerblue;
+}
+
+img{
+    width: 200px;
+}
