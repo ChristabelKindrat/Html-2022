@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+.widgets {
+    display: flex;
+    background-color: #2d70bf;
+    color: #d2e0e7;
+    width: 100vw;
+    height: 30vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-family: "Al Bayan", sans-serif;
+    font-size: 40px;
+
+}
+.block{
+    display: flex;
+    background-color: #224e81;
+    color: #d2e0e7;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0 15px 0;
+    font-family: "Al Bayan", sans-serif;
+    width: 150px;
+    height: 150px;
+}
+.widgets-block{
+    display: flex;
+    justify-content: space-between;
+
+}
+.contact{
+    display: flex;
+    background-color: #2d70bf;
+    color: #d2e0e7;
+    width: 100vm;
+    height: 80vh;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-family: "Al Bayan", sans-serif;
+    font-size: 40px;
+}
