@@ -1,0 +1,48 @@
+.father{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    height: 250px;
+    width: 200px;
+    border: 1px solid #7777;
+    margin-left: 20px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fa-solid, .fa-meteor{
+    text-align: center;
+    display: block;
+    color: #9d9d9d;
+    font-size: 40px;
+    margin-top: 30px;
+
+}
+.title{
+    color: #c88a61;
+    font-family: "Al Bayan", serif;
+    text-align: center;
+}
+.text{
+    color: #9d9d9d;
+    font-family: "Al Bayan", serif;
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+}
+.button {
+    background-color: #55c4b6;
+    color: oldlace;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
