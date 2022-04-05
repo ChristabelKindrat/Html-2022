@@ -1,0 +1,43 @@
+body, p{
+    margin: 0;
+}
+.father {
+    height: 500px;
+    background-color: #06bcd5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.column{
+    display: block;
+}
+.part{
+    height: 100px;
+    width: 350px;
+    background-color: white;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+
+}
+.fa-solid,.fa-brands{
+    color: #999999;
+    font-size: 30px;
+    margin: 20px;
+}
+.title{
+    color: #fdaf5d;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.txt{
+    color: #999999;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    font-family: "Al Bayan", sans-serif;
+}
