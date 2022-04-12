@@ -1,0 +1,29 @@
+.a{
+    width: 100%;
+    height: 200px;
+    background-color: bisque;
+}
+.bcdefgh{
+    display: flex;
+}
+.bcdefg{
+    width: 75%;
+}
+.bcd{
+    display: flex;
+}
+.efg{
+    display: flex;
+}
+
+.b, .c, .d, .e, .f, .g{
+    width: calc(75%/2);
+    height: 250px;
+    background-color: #d2e0e7;
+    border: #2d70bf solid 1px;
+}
+.h{
+    width: 25%;
+    height: 500px;
+    background-color: #cbcbcb;
+}
