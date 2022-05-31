@@ -1,0 +1,15 @@
+
+.divOne{
+    flex-wrap: wrap;
+    display:flex;
+    width: 1250px;
+}
+
+.divPost{
+    display:block;
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    border: #999999 solid 1px;
+
+}
