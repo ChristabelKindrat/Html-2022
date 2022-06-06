@@ -1,0 +1,38 @@
+.divWrap {
+    background-color: oldlace;
+}
+
+.divPost {
+    padding: 5px 10px;
+    margin: 10px 20px;
+    font-size: 20px;
+    font-family: "Apple Symbols", serif;
+    color: sienna;
+    background-color: burlywood;
+}
+
+.postKey {
+    background-color: oldlace;
+    padding: 7px;
+}
+
+.comments {
+    width: 100%;
+    background-color: oldlace;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.comment {
+    box-sizing: border-box;
+    padding: 7px;
+    width: 20%;
+    height: 350px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Apple Symbols", serif;
+
+    color: sienna;
+    border: #c88a61 1px solid;
+    border-radius: 5px;
+}

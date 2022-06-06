@@ -1,0 +1,47 @@
+.divWrap {
+    background-color: oldlace;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.divUser {
+    width: 50%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+
+    border: #c88a61 1px solid;
+    border-radius: 5px;
+}
+
+.divId {
+    font-size: 20px;
+    margin-top: 10px;
+    width: 10%;
+    font-family: "Apple Symbols", serif;
+    text-align: center;
+    background-color: burlywood;
+    color: sienna;
+}
+
+.divName {
+    font-size: 25px;
+    margin-top: 10px;
+    width: 50%;
+    font-family: "Apple Symbols", serif;
+    text-align: center;
+    background-color: peru;
+    color: bisque;
+}
+
+.button {
+    margin-top: 20px;
+    width: 20%;
+    color: sienna;
+    background-color: burlywood;
+    border-color: #c88a61;
+}
